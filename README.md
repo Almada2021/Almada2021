@@ -1,9 +1,30 @@
 # Hey I'm Tobias Almada
-a Great web Developer I can use Javascript, Python, TypeScript
+<div style="display: flex; align-items: center">
+	<div style="margin: 15px; display: flex; align-items:start">
+		I'm Great web Developer I can use Javascript, Python, 
+		<br/>
+		TypeScript
+		<br/> 
+		I have 4 years of experience in Web development.
+		I'm from Paraguay.
+		<br/>
+		I like more AI, game development, and 3D graphics
+	</div>
+	<div style="border-radius: 5px">
+		<img style="border-radius: 50%"
+		src="https://github.com/Almada2021/Almada2021/blob/master/faceBackground.png?raw=true"/>
+	</div>
+</div>
+
 ## My History
-I started was I have 12 years searching in google "How create a game". I'd more curiosity about the software developement world and this open to me more doorsíºª
+	I started when I was 12 years old by googling "How to create a game". I was more 
+	curious about the world of software development and this opened more doors for me. 
+	3 years later I started in a special high school with emphasis on computer science 
+	during this time I joined a game development contest for two years.
+
+
 ## libraries I can Use
-+  django
++ django 
 + react
 + redux
 + react-router-dom
