@@ -10,12 +10,17 @@ I started when I was 12 years old by googling "How to create a game". I was more
 curious about the world of software development and this opened more doors for me. 
 3 years later I started in a special high school with emphasis on computer science 
 during this time I joined a game development contest for two years.
+my first game was made in unity with c# also because this i started with dot net 
+platform 
 
 
-## libraries I can Use
-+ django 
+## Libraries 
 + react
 + redux
 + react-router-dom
 + @reduxjs/toolkit
 + material ui
+## Frameworks
++ NextJS
++ Django
++ ASP.Net
