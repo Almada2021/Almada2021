@@ -1,9 +1,6 @@
 # Hey I'm Tobias Almada 👋
 I'm Great web Developer 🌎 I can use Javascript, Python, TypeScript, I have 4 years of experience in Web development.I'm from Paraguay. 
 I like more AI🧠, game development 🎮, and 3D graphics🌌
-<div>
-	<img src="https://github.com/Almada2021/Almada2021/blob/master/faceBackground.png?raw=true"/>
-</div>
 
 ## My History
 I started when I was 12 years old by googling "How to create a game". I was more 
